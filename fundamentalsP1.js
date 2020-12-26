@@ -86,3 +86,4 @@ switch (day) {
 const ageCarlos=35;
 const drink= ageCarlos >= 18 ? 'you are an adult' : 'drink water' ;
 console.log(`Ternary: ${drink}`);
+
